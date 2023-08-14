@@ -14,9 +14,9 @@
 
 ### apt-get install tor
 
-### git clone https://github.com/Wharkly47/Winshack
-
-### cd Winshack
+### git clone https://github.com/Wharkly47/Winshack-VII
+ 
+## Winshack-VII
 
 ### chmod +x insta.sh
 
